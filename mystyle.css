@@ -1,0 +1,93 @@
+.myImage{
+background-color: blue;
+width: 100;
+height: 100;
+text-align: center;
+}
+
+.myInfo{
+    color: brown;
+    border: 2px solid;
+    background-color: coral;
+    text-align: center;
+    
+}
+
+.aboutMe{
+    background-color: violet;
+    text-align: justify;
+    color: crimson;
+    border: 2px solid;
+    text-align: center;
+}
+
+.aboutMeDesc{
+    color: purple;
+    background-color: tomato;
+    border: 2px solid;
+}
+
+.qualification{
+    background-color: violet;
+    text-align: justify;
+    color: crimson;
+    border: 2px solid;
+    text-align: center;
+}
+
+.education{
+    text-align: justify;
+    color: crimson;
+    text-align: center;
+}
+
+.skills{
+    background-color: violet;
+    text-align: justify;
+    color: crimson;
+    border: 2px solid;
+    text-align: center;
+}
+
+.languages{
+    color: darkblue;
+    border: 2px solid;
+}
+.projects{
+    background-color: violet;
+    text-align: justify;
+    color: crimson;
+    border: 2px solid;
+    text-align: center;
+}
+
+.skillsFiles{
+    color: darkblue;
+    border: 2px solid;
+
+}
+
+.experience{
+    background-color: violet;
+    text-align: justify;
+    color: crimson;
+    border: 2px solid;
+    text-align: center;
+}
+.yearExperience{
+    color: darkblue;
+    border: 2px solid;
+}
+
+.contactUs{
+    background-color: violet;
+    text-align: justify;
+    color: crimson;
+    border: 2px solid;
+    text-align: center;
+}
+
+.contactUsInfo{
+    color: darkblue;
+    border: 2px solid;    
+}
